@@ -1,0 +1,6 @@
+aiogram
+asyncio
+asyncpg
+pandas
+beautifulsoup4
+fake-useragent
