@@ -2,5 +2,6 @@ aiogram
 asyncio
 asyncpg
 pandas
+requests
 beautifulsoup4
 fake-useragent
